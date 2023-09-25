@@ -2,12 +2,10 @@
 Task management with Spring Boot and Hibernate
 
 How to run the Project:
-1.Install Eclipse IDE on the Device.
+1. Install Eclipse IDE on the Device.
   For Reference: https://www.educative.io/answers/how-to-install-eclipse-ide
-2.Download zip file of the Repository 
-  To download click the small arrow on the green Code button at the top right of the repo contents. From here, select Download Zip.
-  This will download the entire GitHub repository as a zipped folder. 
-3.Extract the folder anywhere in the Device.
+2. Download zip file of the Repository. To download click the small arrow on the green Code button at the top right of the repo contents. From here, select Download Zip. This will download the entire GitHub repository as a zipped folder. 
+3. Extract the folder anywhere in the Device.
 4. Now open Eclipse IDE and from the File menu, select Import.
 5. The Select screen opens.
 6. Expand Maven and select Existing Maven Projects.
@@ -22,7 +20,7 @@ How to run the Project:
 15. Then right click on the opened java file and run as Java Application.
 16. If the application does not run make sure that JDK 17 is installed because Spring works for java 17 and above.
 
-How to Open the Applicaion in the browser:
+How to Open the Application in the browser:
 1. Open the Browser and type (http://localhost:8080/register).
 2. Spring boot Provides an inbuilt tomcat server with the port 8080 to open the Webapplication 
 3. This will open the Register page.
